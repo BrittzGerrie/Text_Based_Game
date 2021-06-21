@@ -1,0 +1,16 @@
+C:\Users\britt\RiderProjects\Final_Text_Based_Game\Final_Text_Based_Game\obj\Debug\net5.0\Final_Text_Based_Game.csproj.AssemblyReference.cache
+C:\Users\britt\RiderProjects\Final_Text_Based_Game\Final_Text_Based_Game\obj\Debug\net5.0\Final_Text_Based_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\britt\RiderProjects\Final_Text_Based_Game\Final_Text_Based_Game\obj\Debug\net5.0\Final_Text_Based_Game.AssemblyInfoInputs.cache
+C:\Users\britt\RiderProjects\Final_Text_Based_Game\Final_Text_Based_Game\obj\Debug\net5.0\Final_Text_Based_Game.AssemblyInfo.cs
+C:\Users\britt\RiderProjects\Final_Text_Based_Game\Final_Text_Based_Game\obj\Debug\net5.0\Final_Text_Based_Game.csproj.CoreCompileInputs.cache
+C:\Users\britt\RiderProjects\Final_Text_Based_Game\Final_Text_Based_Game\bin\Debug\net5.0\Final_Text_Based_Game.exe
+C:\Users\britt\RiderProjects\Final_Text_Based_Game\Final_Text_Based_Game\bin\Debug\net5.0\Final_Text_Based_Game.deps.json
+C:\Users\britt\RiderProjects\Final_Text_Based_Game\Final_Text_Based_Game\bin\Debug\net5.0\Final_Text_Based_Game.runtimeconfig.json
+C:\Users\britt\RiderProjects\Final_Text_Based_Game\Final_Text_Based_Game\bin\Debug\net5.0\Final_Text_Based_Game.runtimeconfig.dev.json
+C:\Users\britt\RiderProjects\Final_Text_Based_Game\Final_Text_Based_Game\bin\Debug\net5.0\Final_Text_Based_Game.dll
+C:\Users\britt\RiderProjects\Final_Text_Based_Game\Final_Text_Based_Game\bin\Debug\net5.0\ref\Final_Text_Based_Game.dll
+C:\Users\britt\RiderProjects\Final_Text_Based_Game\Final_Text_Based_Game\bin\Debug\net5.0\Final_Text_Based_Game.pdb
+C:\Users\britt\RiderProjects\Final_Text_Based_Game\Final_Text_Based_Game\obj\Debug\net5.0\Final_Text_Based_Game.dll
+C:\Users\britt\RiderProjects\Final_Text_Based_Game\Final_Text_Based_Game\obj\Debug\net5.0\ref\Final_Text_Based_Game.dll
+C:\Users\britt\RiderProjects\Final_Text_Based_Game\Final_Text_Based_Game\obj\Debug\net5.0\Final_Text_Based_Game.pdb
+C:\Users\britt\RiderProjects\Final_Text_Based_Game\Final_Text_Based_Game\obj\Debug\net5.0\Final_Text_Based_Game.genruntimeconfig.cache
